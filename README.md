@@ -126,12 +126,13 @@ To build an SQL based checkpost database with Python powered dashboard for the r
 
 - Log vehicle and officer details lively at each check post
 
-https://github.com/user-attachments/assets/c7f455c6-acf1-4882-99a8-3a90ad2bcf3f"
 
 
 
 
 
 
+
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/35915f90-03e0-4c39-bdbd-133eed009079" />
 
 
