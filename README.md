@@ -114,3 +114,14 @@ To build an SQL based checkpost database with Python powered dashboard for the r
 
     -->streamlit run police.py
     
+## Business use cases
+
+- Store all check post data in one central database for easier access across locations
+
+- Find crime patterns by analyzing data with Python
+
+- Automatically detect suspect vehicles using smart SQL filters
+
+- Track how well each check post is working using data reports
+
+- Log vehicle and officer details lively at each check post
