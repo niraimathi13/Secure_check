@@ -34,7 +34,7 @@ To build an SQL based checkpost database with Python powered dashboard for the r
 
 💻Install Visual Studio Code
 
-- Go to:👉 https://code.visualstudio.com/
+- Go to:👉 https://code.visualstudio.com/download
 
 - Click "Download for Windows"
 
